@@ -1,1 +1,5 @@
 .dotfiles.git
+.config/karabiner/automatic_backups
+
+# macOS
+.DS_Store
