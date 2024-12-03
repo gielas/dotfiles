@@ -3,8 +3,8 @@ alias k=kubectl
 alias kgp='kubectl get pods'
 alias kl='kubectl logs'
 # Podman, docker / container engines
-alias docker=podman
-alias d=podman
+#alias docker=podman
+#alias d=podman
 # some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
